@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo_login.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\banana.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\banana.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo_signup.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo_signup.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\selected.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\menu.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\unchecked_white.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\nonselected.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\nonselected.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\unchecked.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\unchecked.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\recent.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\recent.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\delete.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\checked.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\checked_white.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\checked_white.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\apple.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\pear.png",
+        "source": "C:\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\pear.png"
+    }
+]

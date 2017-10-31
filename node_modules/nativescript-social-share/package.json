@@ -1,0 +1,56 @@
+{
+  "_from": "nativescript-social-share",
+  "_id": "nativescript-social-share@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-DHHriz9GNGgBSuegxNRewmUKFzM=",
+  "_location": "/nativescript-social-share",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-social-share",
+    "name": "nativescript-social-share",
+    "escapedName": "nativescript-social-share",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-social-share/-/nativescript-social-share-1.4.0.tgz",
+  "_shasum": "0c71eb8b3f463468014ae7a0c4d45ec2650a1733",
+  "_spec": "nativescript-social-share",
+  "_where": "C:\\Groceries",
+  "author": {
+    "name": "TJ VanToll",
+    "email": "tj.vantoll@gmail.com",
+    "url": "http://tjvantoll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-social-share/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A NativeScript module to use the native social sharing widget",
+  "homepage": "https://github.com/tjvantoll/nativescript-social-share",
+  "keywords": [
+    "NativeScript"
+  ],
+  "license": "MIT",
+  "main": "social-share",
+  "name": "nativescript-social-share",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0",
+      "android": "1.4.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvantoll/nativescript-social-share.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.4.0"
+}
